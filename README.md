@@ -22,6 +22,10 @@
 
 **CIRCUIT DIAGRAM:**
 
+![cd](https://github.com/user-attachments/assets/eb4ac77a-0369-4a89-8b1c-fbe0c066dde7)
+![cal](https://github.com/user-attachments/assets/5762b156-6911-45d4-9609-258dd64e34e2)
+![ms](https://github.com/user-attachments/assets/7d99ce5b-3152-47cf-b1ea-3f4632a9ae89)
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
